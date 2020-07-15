@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Number Book web and mobile application;what is required :
+- 🔭 I’m currently working on a <b> Number Book </b> web and mobile application;what is required :
 <ul>
   <li>the retrieved from the phone book must be stored under firebase.</li>
     <li>the user must create an account (by providing the phone number and name) and the IMEI will be automatically 
