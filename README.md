@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a Number Book web and mobile application.
+- 🌱 I’m currently learning new soft skills.
 <!--
 **HassarHassane/HassarHassane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
